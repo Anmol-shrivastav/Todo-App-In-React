@@ -1,0 +1,11 @@
+.todo-container{
+    width: 100%;
+    height: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn-container{
+    text-align: right;
+}
+.text-bold{
+    font-weight: 700;
+}

@@ -1,0 +1,11 @@
+.showMsg{
+    width: fit-content;
+    height: auto;
+    position: absolute;
+    top: 55px;
+    right: 0;
+    padding: 5px 7px;
+    background-color: lightgreen;
+    transition: border-bottom .5s ease-in-out;
+    display: none;
+}
